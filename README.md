@@ -12,6 +12,7 @@ The corpus is narrowed by retrieving top N articles most relevant to each claim.
 
 Recall@N:
 
+```
 N=5:  69.73%
 N=10: 79.02%
 N=20: 83.21%
@@ -20,6 +21,7 @@ N=40: 86.42%
 N=50: 87.43%
 N=60: 88.25%
 N=70: 88.78%
+```
 
 ## Most Relevant Sections
 
